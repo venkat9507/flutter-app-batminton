@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1035175500477-u69ii21vnk9limstt1d1dg8mnj2rfaln.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1035175500477-u69ii21vnk9limstt1d1dg8mnj2rfaln</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCid9en_CIs9bpEPQzDCCFs3Mj9bZWChHU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035175500477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digisailor.flutterAppBatminton</string>
+	<key>PROJECT_ID</key>
+	<string>football-f5a07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>football-f5a07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035175500477:ios:f80ccd690f87207dbcf5d4</string>
+</dict>
+</plist>
